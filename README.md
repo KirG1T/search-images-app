@@ -1,4 +1,4 @@
-Simple Images searching App
+#Simple Images searching App
 
 Technology stack: React, React Query, Unsplash API
 
